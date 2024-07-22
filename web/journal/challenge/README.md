@@ -18,7 +18,7 @@ docker build -t ImaginaryCTF/journal .
 docker run -p 8080:80 --name jounal ImaginaryCTF/journal
 ```
 
-## bypass
+## Writeup
 
 phpファイル
 
